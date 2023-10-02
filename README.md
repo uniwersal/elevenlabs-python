@@ -153,7 +153,7 @@ The basic API has a limited number of characters. To increase this limit, you ca
 
 ```py
 from elevenlabs import set_api_key
-set_api_key("<YOUR_API_KEY>")
+set_api_key("<Z3V6bWFuZXdlbGluYTczOUBnbWFpbC5jb20:s5E7kEK4-Rv8SVe4wqiA1>")
 ```
 
 ## 📖 API & Docs
